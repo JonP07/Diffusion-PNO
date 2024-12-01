@@ -2,7 +2,7 @@
 This is the official implementation for the paper "Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization" Peng et al.
 
 ## Introduction
-![demo](images/system_fig3.png)
+![demo](images/PNO_workflow.png)
 
 ## Running the code
 ### Setup
