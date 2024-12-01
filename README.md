@@ -9,7 +9,8 @@ This is the official implementation for the paper "Safeguarding Text-to-Image Ge
 
 ![demo](images/results.png)
 
-Our method offers superior tradeoffs between image safety and prompt alignment, when compared with state-of-the-art T2I safety mechanisms.
+Our method achieves almost 100% safe generation, and offers superior tradeoffs between image safety and prompt alignment, when compared with state-of-the-art T2I safety mechanisms.
+
 ## Running the code
 ### Setup
 ```bash
